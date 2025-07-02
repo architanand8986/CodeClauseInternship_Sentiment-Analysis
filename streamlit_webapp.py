@@ -1,4 +1,4 @@
-import streamlit_webapp as st
+import streamlit as st
 from textblob import TextBlob
 
 st.title("Sentiment Analysis Tool")
